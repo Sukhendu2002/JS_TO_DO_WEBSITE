@@ -1,0 +1,10 @@
+.container {
+  /* background: gray; */
+  border: 2px solid black;
+  width: 360px;
+  margin: 0 auto;
+}
+.apply {
+  color: gray;
+  text-decoration: line-through;
+}

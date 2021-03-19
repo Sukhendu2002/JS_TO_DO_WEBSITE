@@ -1,2 +1,2 @@
 # JS_TO_DO_WEBSITE
-Javascript to-do website
+This is a Javascript to-do website
